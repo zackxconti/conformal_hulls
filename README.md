@@ -1,8 +1,8 @@
-# pyhull
+# pynavhull
 
 **Work in Progress**
 
-`pyhull` is a Python package for interpolating surface pressure and shear stress on hull geometries. Designed for use in fluid mechanics and marine hydrodynamics applications, the software also includes utilities for visualisation and preprocessing of hull surface data for machine learning workflows.
+`pynavhull` is a Python package for interpolating surface pressure and shear stress on hull geometries. Designed for use in fluid mechanics and marine hydrodynamics applications, the software also includes utilities for visualisation and preprocessing of hull surface data for machine learning workflows.
 
 ## Features
 
@@ -37,5 +37,5 @@
 
 ```bash
 git clone https://github.com/zackxconti/conformal_hulls.git
-cd pyhull
+cd pynavhull
 pip install -e .
